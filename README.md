@@ -1,6 +1,5 @@
 - 👋 @SkylerScripts
 - 👀 Interested in shell languages and automating difficult/tedious parts of my job
-- 💼 Currently work at MacStadium
 
 
 <!---
